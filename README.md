@@ -1,6 +1,6 @@
 # 🌌 Space Exploration: Planetary Quiz Exploration Game 🚀
 
-**Solar Quest** is an interactive web-based quiz game where players explore the solar system, landing on each planet and answering fun, educational quizzes to unlock the next. From **Mercury to Neptune**, it’s a journey of learning and discovery — one planet at a time!
+**Space Exploration** is an interactive web-based quiz game where players explore the solar system, landing on each planet and answering fun, educational quizzes to unlock the next. From **Mercury to Neptune**, it’s a journey of learning and discovery — one planet at a time!
 
 
 
