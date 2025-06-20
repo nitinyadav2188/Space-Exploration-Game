@@ -6,9 +6,9 @@
 
 ---
 
-## 🚀 Live Demo
+## 👉 Play Now on: 
 
-👉 [Play Now on SpaceXpo](https://spacexpogame.netlify.app/)
+[SpaceXpo](https://spacexpogame.netlify.app/)
 
 ---
 
