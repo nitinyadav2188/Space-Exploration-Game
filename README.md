@@ -45,19 +45,6 @@
 | **GH Pages**    | Deployment Platform        |
 
 ---
-## 📂 File Structure
 
-solar-quiz-game/
-├── public/ # Assets and static files
-├── src/
-│ ├── pages/ # Home, Planet, Result pages
-│ ├── data/quizData.js # Quiz questions for all 8 planets
-│ ├── App.jsx # App component with routing
-│ └── main.jsx # Entry point
-├── index.html
-├── tailwind.config.js
-├── vite.config.js
-├── package.json
-└── README.md
 
 ---
